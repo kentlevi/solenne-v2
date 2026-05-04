@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Solenne Bay favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102331" />
+      <stop offset="100%" stop-color="#21445b" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3d08b" />
+      <stop offset="100%" stop-color="#b88a3b" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path d="M18 46c4.5 2.4 9.8 3.6 15.2 3.5 7.3 0 13.1-2 18.8-6.3" fill="none" stroke="rgba(243,208,139,.45)" stroke-linecap="round" stroke-width="2.5"/>
+  <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="url(#gold)" letter-spacing="1">
+    SB
+  </text>
+</svg>
